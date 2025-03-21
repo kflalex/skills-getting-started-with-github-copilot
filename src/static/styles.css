@@ -80,6 +80,12 @@ section h3 {
   color: #333;
 }
 
+.activity-card p:last-child {
+  margin-top: 10px;
+  font-style: italic;
+  color: #555;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
